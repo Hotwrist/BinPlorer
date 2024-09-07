@@ -20,7 +20,7 @@ In the future, i am hoping to add to the capability of this tool to enable it ha
 Make sure you have both Qt C++ Framework and libbfd installed on your system.
 
 # BinPlorer Logo
-![Alt text](images/BIN.png)
+![BinPlorer Logo](images/BIN.png)
 
 # BinPlorer Interface
-![Alt text](images/binplorer.png)
+![BinPlorer Interface](images/binplorer.png)
